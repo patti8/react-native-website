@@ -1,6 +1,6 @@
 ---
 id: alert
-title: Alert
+title: Alertt
 ---
 
 import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem'; import constants from '@site/core/TabsConstants';
